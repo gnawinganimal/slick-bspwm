@@ -5,9 +5,14 @@ Slick bspwm theme
 * Bspwm
 * Polybar
 * Rofi
+  * Launcher
+  * Power Menu
 * Dunst
 * Kitty
 * Fish
 * Zathura
 * Neovim
 * Cava
+
+### Stretch Components
+* Eww widgets
