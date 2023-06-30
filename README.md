@@ -7,6 +7,7 @@ Slick bspwm theme
 * Rofi
 * Dunst
 * Kitty
+* Fish
 * Zathura
 * Neovim
 * Cava
